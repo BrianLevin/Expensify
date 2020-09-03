@@ -49,25 +49,25 @@ The user can also sort through expenses by typing in the search bar:
 - Express
 - Firebase
 - History
- - Node-SASS
- - Normalize.CSS
- -React-Dom
- -React-Scripts
- -Numeral
- -React-Modol
- -React-Redux
- -React-Router-Dom
- -Redux
- -Redux-Mock-Store
- -Redux-Thunk
- -Sass-Loader
- -Style-Loader
- -UUID
- -Validator
- - React-Addons-Shallow-Compared
- - CSS-Loader 
- -React Dates
- - Extract-Text-Webpack-Plugin
+- Node-SASS
+- Normalize.CSS
+- React-Dom
+- React-Scripts
+- Numeral
+- React-Modol
+- React-Redux
+- React-Router-Dom
+- Redux
+- Redux-Mock-Store
+- Redux-Thunk
+- Sass-Loader
+- Style-Loader
+- UUID
+- Validator
+- React-Addons-Shallow-Compared
+- CSS-Loader 
+- React-Dates
+- Extract-Text-Webpack-Plugin
 
 ## Email:
 
